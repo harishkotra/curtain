@@ -1,0 +1,11 @@
+node_modules/
+circuits/pot*.ptau
+circuits/ballot_0.zkey
+circuits/*.wtns
+circuits/witness*.json
+circuits/*.sym
+circuits/ballot.r1cs
+circuits/ballot_js/
+registry*.json
+secrets*.json
+.DS_Store
